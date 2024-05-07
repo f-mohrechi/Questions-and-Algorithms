@@ -6,8 +6,6 @@ A truthy value is a value that is considered true when evaluated in a Boolean co
 
 - `false`
 - `0`
-- `-0`
-- `0n`
 - `''` (empty string)
 - `null`
 - `undefined`
